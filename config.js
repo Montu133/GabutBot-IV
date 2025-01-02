@@ -20,10 +20,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
-global.packname = 'Sticker By'
+global.owner = ['6287836518013']
+global.ownernomer = "6287836518013"
+global.premium = ['6287836518013']
+global.packname = 'Sticker By montu'
 global.author = 'GabutBot v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
